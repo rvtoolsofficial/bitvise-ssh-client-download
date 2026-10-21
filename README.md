@@ -1,6 +1,6 @@
 # Bitvise SSH Client 9.66 ZIP Download for Windows
 
-The Bitvise SSH Client installer is available as a ZIP download. The ZIP contains the original installer, without repackaging or modification.
+**Bitvise SSH Client** (BvSshClient, historically Tunnelier) is a Windows SSH2 client that combines remote terminal access, graphical SFTP, SCP workflows, and SSH tunneling.
 
 ## Download Bitvise SSH Client
 
@@ -14,9 +14,27 @@ The Bitvise SSH Client installer is available as a ZIP download. The ZIP contain
   <a href="https://github.com/rvtoolsofficial/bitvise-ssh-client-download/releases/latest">Download latest version from Releases</a>
 </p>
 
-The ZIP contains the Bitvise SSH Client 9.66 installer. Extract the archive before running the installer. Review Bitvise license terms and verify the installer’s digital signature before use.
+The ZIP contains the Bitvise SSH Client 9.66 installer. Extract the archive and verify the installer's digital signature with Bitvise's [signature verification guide](https://www.bitvise.com/verify-installer-signature) before launching it. Review the [Bitvise SSH Client EULA](https://www.bitvise.com/ssh-client-license).
 
-## License and support
+## Product overview
 
-Bitvise SSH Client and the Bitvise name belong to Bitvise Limited. This repository is an independent download page, not an official Bitvise support channel.
-For product setup and security guidance, see the [Bitvise SSH Client guide](https://github.com/rvtoolsofficial/bitvise-ssh-client-guide).
+Bitvise SSH Client is an SSH2 **client**, not an SSH server. Its feature set includes:
+
+- SSH terminal and remote console, with bvterm, xterm, and VT-100 terminal emulation.
+- Graphical SFTP file transfer and a scriptable `sftpc` client.
+- SCP workflows where supported by the remote system.
+- SSH port forwarding, dynamic SOCKS/HTTP CONNECT tunneling, and SSH jump proxy support.
+- SFTP drive mapping and an FTP-to-SFTP bridge.
+- Command-line tools including `sexec`, `stermc`, and `stnlc`.
+- Public-key authentication and supported Windows-domain SSO options, depending on server and configuration.
+
+Read the [complete Bitvise SSH Client guide](https://github.com/rvtoolsofficial/bitvise-ssh-client-guide) for use cases, setup, troubleshooting, and security tips.
+
+## Official resources
+
+- [Bitvise product information](https://www.bitvise.com/ssh-client)
+- [Official download page and version notes](https://www.bitvise.com/ssh-client-download)
+- [Verify the installer signature](https://www.bitvise.com/verify-installer-signature)
+- [License terms](https://www.bitvise.com/ssh-client-license)
+
+This is an independent download page, not an official Bitvise support channel. The ZIP mirror is published based on the uploader's statement that they have advance written authorization from Bitvise. Product trademarks belong to their respective owners.
